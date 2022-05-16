@@ -1,25 +1,18 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed hard drive on workstation",
+      "message": "learning to manage state with redux in React App development",
       "attention": false,
-      "data": "03-02-2019",
-      "tech": "Sam Smith"
+      "tech": "John Doe",
+      "date": "2022-05-16T15:03:31.489Z",
+      "id": 1
     },
     {
-      "id": 2,
-      "message": "Workstation 007 not posting",
+      "message": "another log",
       "attention": true,
-      "data": "03-02-2019",
-      "tech": "John Doe"
-    },
-    {
-      "id": 3,
-      "message": "Changed memory on Workstation 050",
-      "attention": false,
-      "data": "03-02-2019",
-      "tech": "Sara Wilson"
+      "tech": "Sara Wilson",
+      "date": "2022-05-16T15:04:06.651Z",
+      "id": 2
     }
   ],
   "techs": [

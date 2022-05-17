@@ -1,13 +1,6 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "learning to manage state with redux in React App development [Updated Again]",
-      "attention": false,
-      "tech": "Sam Smith",
-      "date": "2022-05-17T12:24:34.036Z"
-    },
-    {
       "id": 2,
       "message": "RNCH server user interface issue resolved",
       "attention": false,
@@ -25,23 +18,18 @@
   "techs": [
     {
       "id": 1,
-      "firstname": "John",
-      "lastname": "Doe"
+      "firstName": "John",
+      "lastName": "Doe"
     },
     {
       "id": 2,
-      "firstname": "Sam",
-      "lastname": "Smith"
+      "firstName": "Sam",
+      "lastName": "Smith"
     },
     {
       "id": 3,
-      "firstname": "Sara",
-      "lastname": "Wilson"
-    },
-    {
-      "firstname": "Alpha",
-      "lastname": "Blondy",
-      "id": 4
+      "firstName": "Sara",
+      "lastName": "Wilson"
     }
   ]
 }
